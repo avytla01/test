@@ -1,5 +1,5 @@
 # Spring 4 MVC Example (Java Configuration) + Maven
-Template example for Spring 4 MVC + JSP View with pure Java Configuration (no XML), using Maven build tool.
+Template examples for Spring 4 MVC + JSP View with pure Java Configuration (no XML), using Maven build tool.
 
 ###1. Technologies
 * Spring 4.3.0.RELEASE
